@@ -1,0 +1,9 @@
+# All requirements should specify an exact version
+requests==2.20.1
+selenium
+python-crontab
+psycopg2-binary
+numpy
+pandas
+bs4
+

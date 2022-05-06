@@ -1,0 +1,49 @@
+2022-05-06 16:43:49,440.440 example_appium_android.py   60 INFO        
+2022-05-06 16:43:49,441.441 example_appium_android.py   61 INFO        Setting up the test case...
+2022-05-06 16:43:49,441.441 example_appium_android.py   50 INFO        Init Vars for test...
+2022-05-06 16:43:49,443.443 cap_lib.py             68 INFO        {
+  "platformName": "Android",
+  "deviceName": "00008101-001411E11E28001E",
+  "udid": "00008101-001411E11E28001E",
+  "automationName": "UiAutomator2",
+  "noReset": true,
+  "newCommandTimeout": 30000,
+  "headspin:capture.video": true,
+  "headspin:capture.network": true,
+  "appPackage": "com.google.android.youtube",
+  "appActivity": "com.google.android.youtube.app.honeycomb.Shell$HomeActivity"
+}
+2022-05-06 16:43:49,443.443 cap_lib.py            116 INFO        Init general Timing
+2022-05-06 16:44:04,445.445 example_appium_android.py   60 INFO        
+2022-05-06 16:44:04,445.445 example_appium_android.py   61 INFO        Setting up the test case...
+2022-05-06 16:44:04,445.445 example_appium_android.py   50 INFO        Init Vars for test...
+2022-05-06 16:44:04,446.446 cap_lib.py             68 INFO        {
+  "platformName": "Android",
+  "deviceName": "00008101-001411E11E28001E",
+  "udid": "00008101-001411E11E28001E",
+  "automationName": "UiAutomator2",
+  "noReset": true,
+  "newCommandTimeout": 30000,
+  "headspin:capture.video": true,
+  "headspin:capture.network": true,
+  "appPackage": "com.google.android.youtube",
+  "appActivity": "com.google.android.youtube.app.honeycomb.Shell$HomeActivity"
+}
+2022-05-06 16:44:04,446.446 cap_lib.py            116 INFO        Init general Timing
+2022-05-06 16:44:04,446.446 hs_api.py              24 INFO        00008101-001411E11E28001E
+2022-05-06 16:44:04,447.447 hs_api.py              25 INFO        074573e89fea4cb28351324b6188af75
+2022-05-06 16:48:58,887.887 hs_api.py              24 INFO        17160522501498
+2022-05-06 16:48:58,888.888 hs_api.py              25 INFO        a60f716ef7a04fb8b06a70201aa7ed86
+2022-05-06 16:49:12,342.342 hs_api.py              24 INFO        17160522501498
+2022-05-06 16:49:12,342.342 hs_api.py              25 INFO        a60f716ef7a04fb8b06a70201aa7ed86
+2022-05-06 16:55:41,763.763 hs_api.py              24 INFO        00008030-00026502367A402E
+2022-05-06 16:55:41,763.763 hs_api.py              25 INFO        a60f716ef7a04fb8b06a70201aa7ed86
+2022-05-06 16:56:02,920.920 hs_api.py              24 INFO        00008030-00026502367A402E
+2022-05-06 16:56:02,920.920 hs_api.py              25 INFO        a60f716ef7a04fb8b06a70201aa7ed86
+2022-05-06 16:56:21,568.568 hs_api.py             265 INFO        {'companion_id': None, 'session_type': 'capture', 'start_time': 1651820167.722, 'endpoints': [], 'state': 'active', 'session_id': '9acdcc42-cd09-11ec-bc79-0618083052fd', 'device_id': '00008030-00026502367A402E'}
+2022-05-06 16:58:15,764.764 hs_api.py              24 INFO        00008030-00026502367A402E
+2022-05-06 16:58:15,764.764 hs_api.py              25 INFO        a60f716ef7a04fb8b06a70201aa7ed86
+2022-05-06 16:58:32,834.834 hs_api.py             265 INFO        {'companion_id': None, 'session_type': 'capture', 'start_time': 1651820301.438, 'endpoints': [], 'state': 'active', 'session_id': 'ea8140de-cd09-11ec-a5a2-02236b2bd67d', 'device_id': '00008030-00026502367A402E'}
+2022-05-06 17:00:08,794.794 hs_api.py              24 INFO        00008030-00026502367A402E
+2022-05-06 17:00:08,794.794 hs_api.py              25 INFO        a60f716ef7a04fb8b06a70201aa7ed86
+2022-05-06 17:00:27,148.148 hs_api.py             265 INFO        {'companion_id': None, 'session_type': 'capture', 'start_time': 1651820413.997, 'endpoints': [], 'state': 'active', 'session_id': '2d98660e-cd0a-11ec-9ab9-0643a6c39ea9', 'device_id': '00008030-00026502367A402E'}
