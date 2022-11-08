@@ -1,3 +1,3 @@
 # headspin-api
 
-Collection of APIs to run Headspin features with different languages
+Collection of APIs to run [HeadSpin](https://www.headspin.io/) features with different languages
